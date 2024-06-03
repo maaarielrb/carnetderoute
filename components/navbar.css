@@ -1,0 +1,26 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #C9AD90;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  margin: 10px 30px;
+  color: #FFFFFF;
+}
+
+.link:hover {
+  color: #052DC0;
+}
+
+#logo {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}

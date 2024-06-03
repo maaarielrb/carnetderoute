@@ -1,0 +1,37 @@
+@import url(components/boite.css);
+@import url(components/navbar.css);
+@import url(components/image.css);
+@import url(components/card.css);
+@import url(components/video.css);
+
+body {
+	background: white;
+}
+
+h2{
+	color:#052DC0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  color: #FD6C9E;
+}
+
+h2 {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
